@@ -10,4 +10,4 @@ SurgePanel = script-name=SurgePanel,update-interval=1
 
 [Script]
 #Surge Panel
-SurgePanel = type=generic,timeout=10,script-path= https://raw.githubusercontent.com/erdongchanyo/Rules/main/Surge/Panels/EDC_Surge-Panel.js,argument=icon=crown.fill&color=#f6c970
+SurgePanel = type=generic,timeout=10,script-path= https://raw.githubusercontent.com/luannke/Rules/main/Module/Surge-Panel/Surge-Panel.js,argument=icon=crown.fill&color=#f6c970

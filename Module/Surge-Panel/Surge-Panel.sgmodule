@@ -1,0 +1,13 @@
+#!name=Surge Panel
+#!desc=显示Surge的启动时间
+#!system=ios
+# 更新日期：2023.03.7
+# 版本：1.5
+
+[Panel]
+#Surge Panel
+SurgePanel = script-name=SurgePanel,update-interval=1
+
+[Script]
+#Surge Panel
+SurgePanel = type=generic,timeout=10,script-path= https://raw.githubusercontent.com/erdongchanyo/Rules/main/Surge/Panels/EDC_Surge-Panel.js,argument=icon=crown.fill&color=#f6c970
